@@ -1,0 +1,10 @@
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.env
+.env.*
+.DS_Store
+signing.yml
+build/
+DerivedData/
