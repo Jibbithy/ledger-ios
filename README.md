@@ -1,5 +1,7 @@
 # Ledger
 
+[![CI](https://github.com/Jibbithy/ledger-ios/actions/workflows/ci.yml/badge.svg)](https://github.com/Jibbithy/ledger-ios/actions/workflows/ci.yml)
+
 A native iOS personal finance app for tracking activity, spending, subscriptions and savings goals, with charts and a biometric lock.
 
 Built with SwiftUI and Swift Charts. Sample data in this repo is fictional.
